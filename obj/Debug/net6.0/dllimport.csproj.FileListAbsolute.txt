@@ -1,0 +1,15 @@
+D:\univer\dllimport\bin\Debug\net6.0\dllimport.exe
+D:\univer\dllimport\bin\Debug\net6.0\dllimport.deps.json
+D:\univer\dllimport\bin\Debug\net6.0\dllimport.runtimeconfig.json
+D:\univer\dllimport\bin\Debug\net6.0\dllimport.dll
+D:\univer\dllimport\bin\Debug\net6.0\dllimport.pdb
+D:\univer\dllimport\obj\Debug\net6.0\dllimport.csproj.AssemblyReference.cache
+D:\univer\dllimport\obj\Debug\net6.0\dllimport.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\dllimport\obj\Debug\net6.0\dllimport.AssemblyInfoInputs.cache
+D:\univer\dllimport\obj\Debug\net6.0\dllimport.AssemblyInfo.cs
+D:\univer\dllimport\obj\Debug\net6.0\dllimport.csproj.CoreCompileInputs.cache
+D:\univer\dllimport\obj\Debug\net6.0\dllimport.dll
+D:\univer\dllimport\obj\Debug\net6.0\refint\dllimport.dll
+D:\univer\dllimport\obj\Debug\net6.0\dllimport.pdb
+D:\univer\dllimport\obj\Debug\net6.0\dllimport.genruntimeconfig.cache
+D:\univer\dllimport\obj\Debug\net6.0\ref\dllimport.dll
